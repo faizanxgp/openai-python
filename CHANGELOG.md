@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.17.1 (2024-04-11)
+
+Full Changelog: [v1.17.0...v1.17.1](https://github.com/openai/openai-python/compare/v1.17.0...v1.17.1)
+
+### Chores
+
+* fix typo ([#1304](https://github.com/openai/openai-python/issues/1304)) ([1129082](https://github.com/openai/openai-python/commit/1129082955f98d76c0927781ef9e7d0beeda2ec4))
+
 ## 1.17.0 (2024-04-10)
 
 Full Changelog: [v1.16.2...v1.17.0](https://github.com/openai/openai-python/compare/v1.16.2...v1.17.0)
